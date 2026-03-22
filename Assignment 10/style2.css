@@ -1,19 +1,12 @@
+
+/* Assignment 10 styles */
+
 body {
   background: darkcyan;
   font-size: 15px;
   /* font-family: sans-serif; */
   font-family: 'Averia Sans Libre', italic;
 }
-
-/*
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-*/
 
 h1,
 h2,
@@ -108,6 +101,7 @@ main {grid-area: mainy; background: powderblue; max-height: 100%;}
 /* #aside2 {grid-area: aside2; background: lavender;} */
 footer {grid-area: footy; background: lightsteelblue;}
 
+/* Keeping these for future */
 /* nav ul {
 display: flex;
 flex-flow: row nowrap;
@@ -158,6 +152,7 @@ main, aside {
     border-radius: inherit;
 }
 
+/* Keeping for future */
 /* nav ul {
   flex-flow: column nowrap;
   text-align: center;
