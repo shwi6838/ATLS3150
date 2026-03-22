@@ -1,0 +1,65 @@
+
+h1, h2 {
+    color: brown;
+    font-family: 'Averia Sans Libre', bold;
+}
+
+p {
+    color: black;
+    font-family: 'Averia Sans Libre', italic;
+}
+
+ul {
+    border: 6px solid red;
+    background-color: lightsalmon;
+}
+
+ol {
+    border: 6px solid green;
+    background-color: lightgreen;
+}
+
+ol, ul {
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+li {
+    font-family: 'Averia Sans Libre', italic;
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+h1, strong {
+    color: blueviolet;
+}
+
+em {
+    color: orangered;
+}
+
+body {
+    background-color: lightblue;
+}
+
+hr {
+    border: 4px solid lightslategray;
+    margin: 20px 0;
+}
+
+dt {
+    font-family: 'Averia Sans Libre', bold;
+    font-weight: bold;
+    color: brown;
+}
+
+dd {
+    font-family: 'Averia Sans Libre', italic;
+    margin-left: 20px;
+    color: darkmagenta;
+}
+
+/* YOUR 3 REQUIRED CUSTOM CHANGES */
+/* 1. Example: Change a background color */
+/* 2. Example: Adjust border thickness */
+/* 3. Example: Change font-size or padding */

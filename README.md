@@ -6,3 +6,5 @@ Coding Assignment(s) for ATLS 3150
 [Assignment #7](https://shwi6838.github.io/ATLS3150/Assignment%207): HTML, Text, and Css Fundamentals
 
 [Assignment #8](https://shwi6838.github.io/ATLS3150/Assignment%208): Page Structures
+
+[Assignment #10](https://shwi6838.github.io/ATLS3150/Assignment%2010): Responsive CSS
